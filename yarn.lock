@@ -2556,11 +2556,6 @@
   dependencies:
     "@sinonjs/commons" "^1.7.0"
 
-"@snyk/protect@latest":
-  version "1.912.0"
-  resolved "https://registry.yarnpkg.com/@snyk/protect/-/protect-1.912.0.tgz#bce8e08106d961315d74cedb82fb68aba7ea2e58"
-  integrity sha512-4FkyYdlORqHrpONMYiJHZ/+7Naem4TcR6FEEPpyE4Syy7B4AxMhDk1dN0ddH5zHgEzylZUTZcXPPsycp4U/ykg==
-
 "@surma/rollup-plugin-off-main-thread@^2.2.3":
   version "2.2.3"
   resolved "https://registry.yarnpkg.com/@surma/rollup-plugin-off-main-thread/-/rollup-plugin-off-main-thread-2.2.3.tgz#ee34985952ca21558ab0d952f00298ad2190c053"
@@ -2712,12 +2707,10 @@
     "@testing-library/dom" "^8.0.0"
     "@types/react-dom" "*"
 
-"@testing-library/user-event@^13.5.0":
-  version "13.5.0"
-  resolved "https://registry.yarnpkg.com/@testing-library/user-event/-/user-event-13.5.0.tgz#69d77007f1e124d55314a2b73fd204b333b13295"
-  integrity sha512-5Kwtbo3Y/NowpkbRuSepbyMFkZmHgD+vPzYB/RJ4oxt5Gj/avFFBYjhw27cqSVPVw/3a67NK1PbiIr9k4Gwmdg==
-  dependencies:
-    "@babel/runtime" "^7.12.5"
+"@testing-library/user-event@^14.1.1":
+  version "14.2.0"
+  resolved "https://registry.yarnpkg.com/@testing-library/user-event/-/user-event-14.2.0.tgz#8293560f8f80a00383d6c755ec3e0b918acb1683"
+  integrity sha512-+hIlG4nJS6ivZrKnOP7OGsDu9Fxmryj9vCl8x0ZINtTJcCHs2zLsYif5GzuRiBF2ck5GZG2aQr7Msg+EHlnYVQ==
 
 "@tootallnate/once@1":
   version "1.1.2"
@@ -9282,6 +9275,11 @@ slash@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/slash/-/slash-4.0.0.tgz#2422372176c4c6c5addb5e2ada885af984b396a7"
   integrity sha512-3dOsAHXXUkQTpOYcoAxLIorMTp4gIQr5IW3iVb7A7lFIp0VHhnynm9izx6TssdrIcVIESAlVjtnO2K8bg+Coew==
+
+snyk@^1.852.0:
+  version "1.931.0"
+  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.931.0.tgz#af0cee914bca0a1919cb3eb4eedfbc053e0f516a"
+  integrity sha512-anaEdv5e7BugJeRWuT5tviW46ABmOoPb8+4Ijv+kjZvKa6zCIKL0i8kODKmOpOENGAs+2qrAJPI3dAEUPQiAdg==
 
 sockjs@^0.3.21:
   version "0.3.24"
