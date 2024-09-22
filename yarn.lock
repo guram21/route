@@ -2848,7 +2848,7 @@
     "@svgr/plugin-svgo" "^5.5.0"
     loader-utils "^2.0.0"
 
-"@testing-library/jest-dom@^6.5.0":
+"@testing-library/jest-dom@^6.4.8":
   version "6.5.0"
   resolved "https://registry.yarnpkg.com/@testing-library/jest-dom/-/jest-dom-6.5.0.tgz#50484da3f80fb222a853479f618a9ce5c47bfe54"
   integrity sha512-xGGHpBXYSHUUr6XsKBfs85TWlYKpTc37cSBBVrXcib2MkHLboWlkClhWF37JKlDb9KEq3dHs+f2xR7XJEWGBxA==
@@ -2861,10 +2861,10 @@
     lodash "^4.17.21"
     redent "^3.0.0"
 
-"@testing-library/react@^16.0.0":
-  version "16.0.0"
-  resolved "https://registry.yarnpkg.com/@testing-library/react/-/react-16.0.0.tgz#0a1e0c7a3de25841c3591b8cb7fb0cf0c0a27321"
-  integrity sha512-guuxUKRWQ+FgNX0h0NS0FIq3Q3uLtWVpBzcLOggmfMoUpgBnzBzvLLd4fbm6yS8ydJd94cIfY4yP9qUQjM2KwQ==
+"@testing-library/react@^16.0.1":
+  version "16.0.1"
+  resolved "https://registry.yarnpkg.com/@testing-library/react/-/react-16.0.1.tgz#29c0ee878d672703f5e7579f239005e4e0faa875"
+  integrity sha512-dSmwJVtJXmku+iocRhWOUFbrERC76TX2Mnf0ATODz8brzAZrMBbzLwQixlBSanZxR6LddK3eiwpSFZgDET1URg==
   dependencies:
     "@babel/runtime" "^7.12.5"
 
@@ -9459,10 +9459,10 @@ slash@^4.0.0:
   resolved "https://registry.yarnpkg.com/slash/-/slash-4.0.0.tgz#2422372176c4c6c5addb5e2ada885af984b396a7"
   integrity sha512-3dOsAHXXUkQTpOYcoAxLIorMTp4gIQr5IW3iVb7A7lFIp0VHhnynm9izx6TssdrIcVIESAlVjtnO2K8bg+Coew==
 
-snyk@^1.1292.2:
-  version "1.1292.4"
-  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.1292.4.tgz#e0d9a6b21238693025b5de4faaf0e7601b946c6e"
-  integrity sha512-UwanRAL537nYVYEn7SwCOP2qkGl0QCGrSmzRlF7J73ffZUCK1p+xSR3GqB3zRqczXNh/fGLV8hTvupM6HrtTeg==
+snyk@^1.1293.0:
+  version "1.1293.1"
+  resolved "https://registry.yarnpkg.com/snyk/-/snyk-1.1293.1.tgz#07615a1a57b40c9779f7678f09135ee832681d60"
+  integrity sha512-CnbNrsEUMGfajfJ5/03BIgx1ixWKr9Kk+9xDw6sZqKy4K5K01DkyUp/V+WjbCfjr0li9+aE7u70s276KEOuiNA==
   dependencies:
     "@sentry/node" "^7.36.0"
     global-agent "^3.0.0"
